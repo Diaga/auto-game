@@ -65,7 +65,7 @@ class Box:
     end_y = 228
 
     height = end_y - start_y
-    width = 125
+    width = 126
 
 
 class Cords:
